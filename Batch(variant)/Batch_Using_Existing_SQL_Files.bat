@@ -8,7 +8,7 @@ PASSWORD="***"
 # Path
 SQL_DIR="./SQL"
 
-# 🛠️ Виконання SQL-файлів по черзі
+# Excecute !
 echo "Run..."
 
 sqlcmd -S $SERVER -U $USER -P $PASSWORD -i "$SQL/Create_Database_Test.sql"
