@@ -10,7 +10,7 @@ DATABASE="Test"
 echo "CREATE database..."
 sqlcmd -S $SERVER -U $USER -P $PASSWORD -Q "IF DB_ID('$DATABASE') IS NULL CREATE DATABASE [$DATABASE];"
 
-# 2. Створення таблиці Employee
+# 2. Create Employee
 echo "CREATE Employee..."
 sqlcmd -S $SERVER -U $USER -P $PASSWORD -d $DATABASE -Q "
 IF OBJECT_ID('Employee', 'U') IS NOT NULL DROP TABLE Employee;
