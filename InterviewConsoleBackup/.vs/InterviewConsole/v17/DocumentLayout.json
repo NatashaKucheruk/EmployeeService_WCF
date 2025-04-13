@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{864DE593-43E7-402D-A654-DF50058D2BBA}|InterviewConsole\\InterviewConsole.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\interviewconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{864DE593-43E7-402D-A654-DF50058D2BBA}|InterviewConsole\\InterviewConsole.csproj|solutionrelative:interviewconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\employeeservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\employeeservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\exceptions\\exceptionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\exceptions\\exceptionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\helpers\\employeehierarchybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\helpers\\employeehierarchybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\factories\\employeeservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\factories\\employeeservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\factories\\dependencyinjectionservicebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\factories\\dependencyinjectionservicebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\helpers\\iemployeehierarchybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\helpers\\iemployeehierarchybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\factories\\simpleinstanceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\factories\\simpleinstanceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\data\\idbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\data\\idbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\employeeservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|c:\\users\\kucheruknatalia\\desktop\\interviewconsolebackup.new\\interviewconsolebackup\\employeeservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80446DAE-C95C-4208-9BB4-A2064ED0BA43}|EmployeeService\\EmployeeService.csproj|solutionrelative:employeeservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{864DE593-43E7-402D-A654-DF50058D2BBA}|InterviewConsole\\InterviewConsole.csproj|C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\interviewconsole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{864DE593-43E7-402D-A654-DF50058D2BBA}|InterviewConsole\\InterviewConsole.csproj|solutionrelative:interviewconsole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Exceptions\\ExceptionStrings.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Exceptions\\ExceptionStrings.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Exceptions\\ExceptionStrings.cs",
+              "RelativeToolTip": "EmployeeService\\Exceptions\\ExceptionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:16:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeHierarchyBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Helpers\\EmployeeHierarchyBuilder.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Helpers\\EmployeeHierarchyBuilder.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Helpers\\EmployeeHierarchyBuilder.cs",
+              "RelativeToolTip": "EmployeeService\\Helpers\\EmployeeHierarchyBuilder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:36:59.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Data\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Data\\DbConnection.cs",
+              "RelativeToolTip": "EmployeeService\\Data\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:15:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\InterviewConsole\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\InterviewConsole\\Program.cs",
+              "RelativeToolTip": "InterviewConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:56:40.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\EmployeeService.svc.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\EmployeeService.svc.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\EmployeeService.svc.cs",
+              "RelativeToolTip": "EmployeeService\\EmployeeService.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:24:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeService\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:33:10.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Factories\\EmployeeServiceFactory.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Factories\\EmployeeServiceFactory.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Factories\\EmployeeServiceFactory.cs",
+              "RelativeToolTip": "EmployeeService\\Factories\\EmployeeServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:09:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjectionServiceBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Factories\\DependencyInjectionServiceBehavior.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Factories\\DependencyInjectionServiceBehavior.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Factories\\DependencyInjectionServiceBehavior.cs",
+              "RelativeToolTip": "EmployeeService\\Factories\\DependencyInjectionServiceBehavior.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:26:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeService\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:31:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "EmployeeService\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:42:52.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeHierarchyBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Helpers\\IEmployeeHierarchyBuilder.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Helpers\\IEmployeeHierarchyBuilder.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Helpers\\IEmployeeHierarchyBuilder.cs",
+              "RelativeToolTip": "EmployeeService\\Helpers\\IEmployeeHierarchyBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:35:46.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimpleInstanceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Factories\\SimpleInstanceProvider.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Factories\\SimpleInstanceProvider.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Factories\\SimpleInstanceProvider.cs",
+              "RelativeToolTip": "EmployeeService\\Factories\\SimpleInstanceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:42:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Data\\IDbConnection.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\Data\\IDbConnection.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Data\\IDbConnection.cs",
+              "RelativeToolTip": "EmployeeService\\Data\\IDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:10:52.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationInsights.config",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\ApplicationInsights.config",
+              "RelativeDocumentMoniker": "EmployeeService\\ApplicationInsights.config",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\ApplicationInsights.config",
+              "RelativeToolTip": "EmployeeService\\ApplicationInsights.config",
+              "ViewState": "AgIAABcAAAAAAAAAAIAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T15:55:30.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeService\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeService\\IEmployeeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:55:56.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeService\\Web.config",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\EmployeeService\\Web.config",
+              "RelativeToolTip": "EmployeeService\\Web.config",
+              "ViewState": "AgIAAEoAAACAf5bzZ7knwE8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T11:34:41.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\InterviewConsole\\App.config",
+              "RelativeDocumentMoniker": "InterviewConsole\\App.config",
+              "ToolTip": "C:\\Users\\kucheruknatalia\\Desktop\\InterviewConsoleBackup.New\\InterviewConsoleBackup\\InterviewConsole\\App.config",
+              "RelativeToolTip": "InterviewConsole\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-11T15:56:25.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

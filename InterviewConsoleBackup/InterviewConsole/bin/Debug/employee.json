@@ -1,0 +1,38 @@
+{
+  "ID": 1,
+  "Name": "Andrey",
+  "ManagerID": null,
+  "Enable": true,
+  "Employees": [
+    {
+      "ID": 2,
+      "Name": "Alexey",
+      "ManagerID": 1,
+      "Enable": true,
+      "Employees": [
+        {
+          "ID": 3,
+          "Name": "Nir",
+          "ManagerID": 2,
+          "Enable": true,
+          "Employees": [
+            {
+              "ID": 4,
+              "Name": "Smadar",
+              "ManagerID": 3,
+              "Enable": true,
+              "Employees": []
+            },
+            {
+              "ID": 5,
+              "Name": "Barak",
+              "ManagerID": 3,
+              "Enable": true,
+              "Employees": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

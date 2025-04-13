@@ -1,0 +1,3 @@
+IF	DB_ID('Test') IS NULL
+	CREATE DATABASE Test;
+	GO
