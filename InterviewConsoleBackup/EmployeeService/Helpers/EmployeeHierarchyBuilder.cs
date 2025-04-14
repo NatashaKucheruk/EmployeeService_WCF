@@ -22,7 +22,16 @@ namespace EmployeeService.Helpers
             all.Where(e => e.ManagerID is int managerId && lookup.ContainsKey(managerId))
                .ToList()
                .ForEach(e => lookup[e.ManagerID.Value].Employees.Add(e));
-
+               /*If the query contained a large amount of data, it would be more efficient to 
+               write the code as shown below, without using ToList().
+               _______________________________________________________________________________________________
+               var subordinates = all.Where(e => e.ManagerID is int managerId && lookup.ContainsKey(managerId));
+                foreach (var e in subordinates)
+                {
+                 lookup[e.ManagerID.Value].Employees.Add(e);
+                }
+                _______________________________________________________________________________________________
+                */
             return lookup.TryGetValue(rootId, out var root) ? root : null;
         }
     }
